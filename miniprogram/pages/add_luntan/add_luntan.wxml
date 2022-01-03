@@ -1,0 +1,16 @@
+<!--pages/add/add.wxml-->
+<view class="page">
+  <view class="page-t" >
+  
+  消息内容：<input class="content" placeholder="说些什么吧" bindinput="change1" value="{{details0}}"  maxlength="-1"/>
+  <view class="divline"></view>
+  发帖人：<input class="content" placeholder="选择发帖昵称/匿名发送" bindinput="change2" value="{{name0}}"  maxlength="-1"/>
+  <view class="divline"></view>
+
+  </view>
+  <view class="btns">
+    <view class="sure" bindtap="sure">确定</view>
+    <view class="cancel" bindtap="cancel">取消</view>
+  </view>
+</view>
+

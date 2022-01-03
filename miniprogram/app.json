@@ -1,0 +1,45 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/luntan/luntan",
+        "pages/add_luntan/add_luntan",
+        "pages/my/my",
+        "pages/logs/logs",
+        "pages/yu/yu",
+        "pages/car/car",
+        "pages/my1/my1"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#000",
+        "navigationBarTitleText": "WeiCMS",
+        "navigationBarTextStyle": "white"
+    },
+    "tabBar": {
+        "color": "#8c8c8c",
+        "selectedColor": "#f4645f",
+        "backgroundColor": "white",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页",
+                "iconPath": "images/shouye.png",
+                "selectedIconPath": "images/shouye.png"
+            },
+            {
+                "pagePath": "pages/luntan/luntan",
+                "text": "论坛",
+                "iconPath": "images/shezhi.png",
+                "selectedIconPath": "images/shezhi.png"
+            },
+            {
+                "pagePath": "pages/my/my",
+                "text": "我的",
+                "iconPath": "images/my.png",
+                "selectedIconPath": "images/my.png"
+            }
+        ],
+        "position": "bottom"
+    },
+    "sitemapLocation": "sitemap.json"
+}

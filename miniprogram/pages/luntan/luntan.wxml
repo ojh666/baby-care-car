@@ -1,0 +1,23 @@
+<!--pages/list/list.wxml-->
+<view class='page'>
+  <block  wx:for="{{list}}"  >
+
+    <view class="tview">
+     <text >昵称:{{item.name}}</text>
+     <text >内容:{{item.details}}</text>
+     <text >时间:{{item.time}}</text>
+    </view>
+
+</block>
+  <!-- 添加一条消息的按钮 -->
+  <view class='add' bindtap='add'>
+    <image src='../../images/edit.png'></image> 
+  </view>
+  <view class='add1' bindtap='change'>
+    <text>刷新</text>
+  </view>
+</view>  
+
+
+
+

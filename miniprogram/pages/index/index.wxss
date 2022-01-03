@@ -1,0 +1,45 @@
+.page__hd{
+    padding:0px 120px;
+    height: 4rem;
+    width:10rem;
+}
+.section_gap{
+    padding:0px 50px;
+}
+.btn{
+    margin-left: 5rem;
+    border-radius: 30rem;
+    height: 10rem;
+    width:10rem;
+    background-color: #1aad33;
+    text-align: center;
+}
+.btn-rel{
+    height: 5rem;
+    width: 10rem;
+    margin-top: 3.2rem;
+    margin-left: -4.9rem;
+    color: azure;
+    position:absolute;
+   font-size: 1cm;
+}
+.stand{
+    height: 3rem;
+}
+.sure{
+    margin-left: 5rem;
+    border-radius: 1em;
+    height: 4rem;
+    width:10rem;
+    background-color: #1aad33;
+    text-align: center;
+}
+.sure_1{
+    height: 5rem;
+    width: 10rem;
+    margin-top: 1.4rem;
+    margin-left: -5.1rem;
+    color: azure;
+    position:absolute;
+   font-size: 0.5cm;
+}

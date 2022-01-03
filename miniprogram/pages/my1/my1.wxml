@@ -1,0 +1,9 @@
+<!--pages/my1/my1.wxml-->
+<view style="background-color: aquamarine;">
+<view>无言以队项目组</view>
+<text>成员：包桑；欧seisei；姚老板</text>
+<view>小程序负责人：姚老板</view>
+<view>联系方式：QQ952220072（川上川下阿龙）</view>
+<image style="width: 200px; height: 200px; background-color: #eeeeee;"  src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0523%2Ffd88762dj00qtjqff0017d000g400ecp.jpg&thumbnail=650x2147483647&quality=80&type=jpg"></image>
+<view style="height: 500px;">欢迎前来咨询</view>
+</view>
